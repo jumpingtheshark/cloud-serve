@@ -8,3 +8,14 @@ git remote add origin https://github.com/jumpingtheshark/cloud-serve.git
     origin  https://github.com/jumpingtheshark/cloud-serve.git (fetch)
     origin  https://github.com/jumpingtheshark/cloud-serve.git (push)
 
+git status
+
+git add -A
+
+419897@LC02VT3G8HTD5 serve % git commit -m 'init commit'
+    [master (root-commit) 7dfb084] init commit
+    4 files changed, 18 insertions(+)
+    create mode 100644 Dockerfile
+    create mode 100644 NotesThursday2.txt
+    create mode 100644 display/foo.txt
+    create mode 100644 display/site/index.html
