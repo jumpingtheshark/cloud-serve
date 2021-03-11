@@ -1,0 +1,10 @@
+git init
+
+ls -a
+
+git remote add origin https://github.com/jumpingtheshark/cloud-serve.git
+
+419897@LC02VT3G8HTD5 serve % git remote -v
+    origin  https://github.com/jumpingtheshark/cloud-serve.git (fetch)
+    origin  https://github.com/jumpingtheshark/cloud-serve.git (push)
+
